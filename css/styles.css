@@ -1,0 +1,45 @@
+@import url('https://fonts.googleapis.com/css2?family=Aboreto&display=swap');
+
+
+
+#top {
+    text-align: center;
+    font-size: 26px;
+    background: #7fff00;
+    margin: 40px 10px;
+    border-radius: 5px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+body {
+    font-family: "Aboreto", 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    padding: 0;
+}
+
+h2 {
+    font-size: 22px;
+    text-align: left;
+    background: coral;
+    margin-right: 50%;
+
+}
+
+img {
+    max-width: 35%;
+    height: auto;
+
+}
+
+.left {
+    float: left;
+    padding: 0 0 0 0;
+}
+
+div {
+    background: magenta;
+}
+
+h3 {
+    background: olive;
+    color: aliceblue;
+}
